@@ -30,9 +30,9 @@ st.markdown("""
         .stButton>button:hover {
             background-color: #FF6B6B;
         }
-        .stTextInput>div>div>input, .stSelectbox>div>div>select, .stMultiselect>div>div>div {
-            background-color: #1E1E1E;
-            color: white;
+      .stTextInput>div>div>input, .stSelectbox>div>div>select, .stMultiselect>div>div>div {
+            background-color:rgb(255, 255, 255);
+            color: black;
             border-radius: 5px;
         }
         .stDataFrame {
